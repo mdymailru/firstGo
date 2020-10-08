@@ -39,7 +39,7 @@ func main() {
 			fmt.Println("Menshe")
 		} else {
 			fmt.Println("Ugadal")
-			break
+			break //угадал, выходим из цикла
 		}
 	}
 }
